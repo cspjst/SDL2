@@ -1,7 +1,0 @@
-{
-  "lsp": {
-    "clangd": {
-      "arguments": ["-I/opt/homebrew/include/SDL2"]
-    }
-  }
-}
